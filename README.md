@@ -15,6 +15,10 @@
 1. Install the latest [bedrock][bedrock_server_download] edition server software.
 1. Move the `.exe` file to this directory and run the file.
 
+## Server Properties
+
+Review the [server properties documentation][server_properties] to customize your server.
+
 ---
 
 Crafted with 💎 by [EthanThatOneKid][creator_site]
@@ -25,3 +29,4 @@ Crafted with 💎 by [EthanThatOneKid][creator_site]
 [bedrock_server_download]: https://www.minecraft.net/en-us/download/server/bedrock
 [ngrok_setup]: https://dashboard.ngrok.com/get-started/setup
 [ngrok_success_img]: media/ngrok_success.png
+[server_properties]: https://minecraft.gamepedia.com/Server.properties
