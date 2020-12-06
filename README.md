@@ -5,16 +5,17 @@
 ## Java Edition Instructions ☕
 
 1. Install the latest [java][java_server_download] edition server software.
-1. Move the `.jar` file to this directory and run the file.
+1. Move the `.jar` file to this directory, rename it to `server.jar`, and run the file.
 1. If Java is not installed on your machine, you must [install Java][java_download].
 1. To spin up the server, run the [`start.bat`](start.bat) file.
-1. To make the server available to friends, [get setup with *Ngrok*][ngrok_setup]
-1. To make the server available to friends, run the [`friends.bat`](friends.bat) file.
+1. Make the server available to friends.
+    1. [Get set up with *Ngrok*][ngrok_setup].
+    1. To make the server available to friends, run the [`friends.bat`](friends.bat) file.
 
 ## Bedrock Edition Instructions 🗻
 
 1. Install the latest [bedrock][bedrock_server_download] edition server software.
-1. Move the `.exe` file to this directory and run the file.
+1. Move the `.exe` file to this directory, rename it to `server.exe`, and run the file.
 
 ## Ngrok Setup 🛰
 
@@ -25,6 +26,7 @@
 ## Server Properties 🔑
 
 Review the [server properties documentation][server_properties_wiki] to customize your server.
+Do not forget to edit the scripts to run [two commands in parrallel](https://stackoverflow.com/a/55519158).
 
 ---
 
