@@ -2,7 +2,7 @@
 
 > How to spin up a Minecraft server for you and your friends for free!
 
-## Step One 1️⃣
+## Step 1️⃣
 
 Clone this repository to your machine.
 
