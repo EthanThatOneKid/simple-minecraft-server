@@ -24,13 +24,11 @@ Move the `.jar` file to this directory, rename it to `server.jar`, and run the f
 
 Create an account [with *ngrok*][ngrok_account]. 🛰
 
-Download the [*ngrok* CLI][ngrok_download] and move the `.exe` file to this directory.
-
-Move the `.exe` file to this directory and double-check that it is named `ngrok.exe`.
+Download the [*ngrok* CLI][ngrok_download], move the `.exe` file to this directory, and double-check that it is named `ngrok.exe`.
 
 Copy your *authtoken* from your [*ngrok* dashboard][ngrok_connect].
 
-Open the [`start.bat`](start.bat) file in your favorite text editor (notepad works perfectly) and replace `$YOUR_NGROK_AUTHTOKEN` with the token that you copied from the previous step.
+Open the [`connect.bat`](connect.bat) file in your favorite text editor (notepad works perfectly) and replace `$YOUR_NGROK_AUTHTOKEN` with the token that you copied from the previous step.
 
 To spin up the server for yourself, run the [`start.bat`](start.bat) file.
 
