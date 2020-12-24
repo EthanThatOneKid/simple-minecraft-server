@@ -1,0 +1,1 @@
+ngrok tcp -region us 25565
