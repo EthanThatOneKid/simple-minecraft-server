@@ -16,7 +16,7 @@ Keep the processes open until you are ready to shut down the server.
 
 [Clone this repository.](https://github.com/EthanThatOneKid/simple-minecraft-server/archive/main.zip)
 
-Install the latest [Java][java_server_download] Edition server software.
+Install the latest [Java Edition server software][java_server_download].
 
 > ☕ If Java is not installed on your machine, you must [install Java][java_download].
 
@@ -36,10 +36,11 @@ Run the [`start.bat`](start.bat) file and then the [`connect.bat`](connect.bat) 
 
 Keep the processes open until you are ready to shut down the server.
 
+> 💡 Do not forget to edit the scripts to run [two commands in parallel](https://stackoverflow.com/a/55519158).
+
 ## Server Properties 🔑
 
 Review the [server properties documentation][server_properties_wiki] to customize your server.
-Do not forget to edit the scripts to run [two commands in parallel](https://stackoverflow.com/a/55519158).
 
 ----
 
