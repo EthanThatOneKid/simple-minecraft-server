@@ -14,7 +14,7 @@ Keep the processes open until you are ready to shut down the server.
 
 ## Creating your World
 
-Clone this repository.
+[Clone this repository.](https://github.com/EthanThatOneKid/simple-minecraft-server/archive/main.zip)
 
 Install the latest [Java][java_server_download] Edition server software.
 
